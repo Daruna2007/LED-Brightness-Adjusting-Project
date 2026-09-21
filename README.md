@@ -81,6 +81,7 @@ This project demonstrates how a potentiometer can control LED brightness. It giv
 \[Add Circuit Diagram Image Here\]
 
 ## **13\. Project Images**
+https://github.com/Daruna2007/LED-Brightness-Adjusting-Project/blob/7c76d8bf1865d0feb3d129b7209c54599307dad8/WhatsApp%20Image%202026-09-21%20at%202.26.53%20PM.jpeg
 
 ### **Circuit Setup**
 
